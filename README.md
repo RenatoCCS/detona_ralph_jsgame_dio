@@ -20,10 +20,11 @@ aqui você encontrará um jogo divertido baseado no filme [Detona Ralph](https:/
   
 <h2>📁  Como Jogar </h2>
 
-1. Você pode acessar o jogo clicando [Aqui](https://barberalurarenato.netlify.app/index.html)
-2. Ou clonar este repositório para sua máquina local.
-3. Abra o arquivo `index.html` em seu navegador web.
-4. Clique no quadrado que o personagem se encontra para pontuar o máximo possível enquanto o tempo não acaba!
+1 - Você pode acessar o jogo clicando [Aqui](https://barberalurarenato.netlify.app/index.html) 
+ <br>  Ou  <br>
+1 - Clonar este repositório para sua máquina local. <br>
+2 - Abra o arquivo `index.html` em seu navegador web. <br>
+3 - Clique no quadrado que o personagem se encontra para pontuar o máximo possível enquanto o tempo não acaba!
 
 
 
