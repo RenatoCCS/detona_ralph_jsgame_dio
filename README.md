@@ -20,7 +20,7 @@ aqui você encontrará um jogo divertido baseado no filme [Detona Ralph](https:/
   
 <h2>📁  Como Jogar </h2>
 
-1 - Você pode acessar o jogo clicando [Aqui](https://barberalurarenato.netlify.app/index.html) 
+1 - Você pode acessar o jogo clicando [Aqui](https:// detonaralphgamerenatoccs. netlify.app) 
  <br>  Ou  <br>
 1 - Clonar este repositório para sua máquina local. <br>
 2 - Abra o arquivo `index.html` em seu navegador web. <br>
