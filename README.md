@@ -1,10 +1,12 @@
-## Awesome JSGame Detona Ralph
+<H1> Jogo JavaScript Detona Ralph </H1>
 
 <p align="center">
-  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
+  <img src="https://github.com/RenatoCCS/detona_ralph_jsgame_dio/blob/main/src/images/ralph.png" alt="JSGame Detona Ralph Logo">
 </p>
 
-Bem-vindo ao **Jogo Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no filme "Detona Ralph". Este projeto não oferece apenas entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
+Bem-vindo ao **Jogo Detona Ralph,** desenvolvi esse projeto na DIO, fiz esse repositório acompanhando as aulas do bootcamp, 
+aqui você encontrará um jogo divertido baseado no filme [Detona Ralph](https://pt.wikipedia.org/wiki/Wreck-It_Ralph). Este projeto não oferece apenas entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
+
 
 <h2>:floppy_disk: Tecnologias Utilizadas </h2>
 
@@ -18,7 +20,7 @@ Bem-vindo ao **Jogo Detona Ralph**! Neste repositório, você encontrará um jog
 
 <h2>📁  Como Jogar </h2>
 
-1. Você pode acessar o projeto clicando [Aqui](https://barberalurarenato.netlify.app/index.html)
+1. Você pode acessar o jogo clicando [Aqui](https://barberalurarenato.netlify.app/index.html)
 2. Ou clonar este repositório para sua máquina local.
 3. Abra o arquivo `index.html` em seu navegador web.
 4. Clique no personagem para pontual o máximo possível enquanto o tempo não acaba!
